@@ -15,3 +15,4 @@ Additionally, we utilized the pmdarima library to determine the best parameters 
 
 ## Installation
 To install the required packages, run the following command:
+pip install pandas pmdarima matplotlib scikit-learn
